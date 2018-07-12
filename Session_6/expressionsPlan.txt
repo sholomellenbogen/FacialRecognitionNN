@@ -1,0 +1,14 @@
+3-5 convolution layers
+dropout of like 30-40%
+c,c,p,d, repeat
+
+keras functional api
+
+3 nn that take 1 image each and output 1 vector
+	outputs from these feed into another nn that outputs 3 vectors
+
+triplet	
+	Va1 - Va2 -> minimize
+	-(Va1 - Vb1) -> minimize
+	
+	
